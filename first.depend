@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568059276 source:/home/dima/Code::BlocksProject/Homework/first/main.cpp
+	<iostream>
+	<set>
+	<math.h>
+
